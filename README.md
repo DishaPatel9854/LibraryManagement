@@ -116,7 +116,4 @@ The project is split into packages, promoting clean architecture:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to modify the emojis and wording to fit your style! 😄
- 
